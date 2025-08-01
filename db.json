@@ -1,9 +1,29 @@
 {
-  "tasksList": [
-    { "id": 1, "title": "Engine Oil Change", "completed": false },
-    { "id": 2, "title": "Brake check", "completed": true },
-    { "id": 3, "title": "Buy Clutch replacement kit", "completed": false }
-    { "id": 3, "title": "Change timing belt", "completed": false }
-    { "id": 3, "title": "Buy gas", "completed": false }
-  ]
+	"tasksList": [
+		{
+			"id": 1,
+			"title": "Engine Oil Change",
+			"completed": false
+		},
+		{
+			"id": 2,
+			"title": "Brake check",
+			"completed": true
+		},
+		{
+			"id": 3,
+			"title": "Buy Clutch replacement kit",
+			"completed": false
+		},
+		{
+			"id": 3,
+			"title": "Change timing belt",
+			"completed": false
+		},
+		{
+			"id": 3,
+			"title": "Buy gas",
+			"completed": false
+		}
+	]
 }
