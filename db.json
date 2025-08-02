@@ -3,26 +3,31 @@
 		{
 			"id": 1,
 			"title": "Engine Oil Change",
+			"comment": "",
 			"completed": false
 		},
 		{
 			"id": 2,
 			"title": "Brake check",
+			"comment": "",
 			"completed": true
 		},
 		{
 			"id": 3,
 			"title": "Buy Clutch replacement kit",
+			"comment": "",
 			"completed": false
 		},
 		{
 			"id": 3,
 			"title": "Change timing belt",
+			"comment": "urgent",
 			"completed": false
 		},
 		{
 			"id": 3,
 			"title": "Buy gas",
+			"comment": "",
 			"completed": false
 		}
 	]
