@@ -1,19 +1,19 @@
 {
 	"tasksList": [
 		{
-			"id": 1,
+			"id": 0,
 			"title": "Engine Oil Change",
 			"comment": "",
 			"completed": false
 		},
 		{
-			"id": 2,
+			"id": 1,
 			"title": "Brake check",
 			"comment": "",
 			"completed": true
 		},
 		{
-			"id": 3,
+			"id": 2,
 			"title": "Buy Clutch replacement kit",
 			"comment": "",
 			"completed": false
@@ -25,7 +25,7 @@
 			"completed": false
 		},
 		{
-			"id": 3,
+			"id": 4,
 			"title": "Buy gas",
 			"comment": "",
 			"completed": false
